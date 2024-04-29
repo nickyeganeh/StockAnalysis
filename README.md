@@ -33,6 +33,8 @@ This project utilizes a variety of machine learning algorithms for stock price p
 
 - Random Forest
 - xgboost
+- Gradient Boosting
+- AdaBoost
 - Others in progress
 
 ## Customization:
