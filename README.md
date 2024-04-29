@@ -26,7 +26,7 @@ You can install required dependencies using pip:
 - pip install numpy
 - pip install os
 - pip install graphviz
-
+- pip install matplotlib
 
 ## Machine Learning Models:
 This project utilizes a variety of machine learning algorithms for stock price prediction. The specific models available may depend on the code provided, but could include:
