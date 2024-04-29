@@ -25,6 +25,7 @@ You can install required dependencies using pip:
 - pip install pandas
 - pip install numpy
 - pip install os
+- pip install graphviz
 
 
 ## Machine Learning Models:
