@@ -41,6 +41,3 @@ This repository is designed to be adaptable. You can modify the code to:
 
 ## Contributing
 We welcome contributions to this project! If you have improvements or new functionalities you'd like to share, please consider creating a pull request.
-
-## Disclaimer:
-Again, this project is for educational purposes only and should not be used for making investment decisions. The accuracy of the stock price predictions cannot be guaranteed.
