@@ -22,6 +22,9 @@ You can install required dependencies using pip:
 - pip install xgboost
 - pip install ta
 - pip install yfinance
+- pip install pandas
+- pip install numpy
+- pip install os
 
 
 ## Machine Learning Models:
