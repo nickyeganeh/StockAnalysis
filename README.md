@@ -35,6 +35,7 @@ This project utilizes a variety of machine learning algorithms for stock price p
 - xgboost
 - Gradient Boosting
 - AdaBoost
+- Others coming soon
 
 ## Customization:
 This repository is designed to be adaptable. You can modify the code to:
